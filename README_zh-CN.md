@@ -44,5 +44,9 @@ public class SpringBootApplication{
 </dependency>
 ```
 1.0.0.x 中的x表示jdk版本。
-比如1.0.0表示适配jdk8的版本。（没有x位）
-比如1.0.0.17表示适配jdk17的版本。
+
+比如:
+
+1.0.0表示适配jdk8的版本。（没有x位）
+
+1.0.0.17表示适配jdk17的版本。

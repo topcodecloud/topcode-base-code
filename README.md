@@ -43,5 +43,9 @@ public class SpringBootApplication{
 </dependency>
 ```
 The x in 1.0.0.x indicates the jdk version.
-For example, 1.0.0 indicates the version that is adapted to jdk8. (no x bit)
-For example, 1.0.0.17 means that it is compatible with jdk17.
+
+For example:
+
+1.0.0 indicates the version that is adapted to jdk8. (no x bit)
+
+1.0.0.17 means that it is compatible with jdk17.
