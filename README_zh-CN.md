@@ -34,3 +34,20 @@ public class SpringBootApplication{
 }
 ```
 ## Step 3: 完成！
+
+# 版本说明
+```xml
+<dependency>
+    <groupId>cloud.topcode.open</groupId>
+    <artifactId>topcode-base-code</artifactId>
+    <version>1.0.0.x</version>
+</dependency>
+```
+
+1.0.0.x 中的x表示jdk版本。 
+
+比如:
+
+1.0.0表示适配jdk8的版本。（没有x位） 
+
+1.0.0.17表示适配jdk17的版本。
